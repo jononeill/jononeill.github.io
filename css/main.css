@@ -1,0 +1,30 @@
+p{
+  font-size: : 100px;
+}
+
+pre { 
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif; 
+	font-size: 30px; 
+}
+
+pre.disclaimer{
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif; 
+	font-size: 15px; 
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 30%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 20px;
+}
+
+#bear{
+	float: right;
+	margin: 0 0 0 15px;
+}
